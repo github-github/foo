@@ -1,0 +1,6 @@
+C:\gittest\HelloWorldCa01\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\gittest\HelloWorldCa01\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\gittest\HelloWorldCa01\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\gittest\HelloWorldCa01\HelloWorld\HelloWorld\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\gittest\HelloWorldCa01\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.exe
+C:\gittest\HelloWorldCa01\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.pdb
